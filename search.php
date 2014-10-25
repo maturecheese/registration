@@ -57,6 +57,7 @@ echo <<<_END
 
 
         <body>
+            Back to <a href='index.php'>Main</a>
             <form method="post" action="search.php" enctype="multipart/form-data">
                 <table>
                     <tr>

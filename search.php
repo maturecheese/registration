@@ -57,6 +57,7 @@ echo <<<_END
 
 
         <body>
+            <h1>Search Table</h1>
             Back to <a href='index.php'>Main</a>
             <form method="post" action="search.php" enctype="multipart/form-data">
                 <table>
@@ -71,7 +72,7 @@ echo <<<_END
 
                     </tr>
                 </table>
-                <input type="submit">
+                <input type="submit" name='submit' value='Submit'>
             </form>
 
 

@@ -48,7 +48,7 @@
     </style>
 </head>
 <body>
-<h1>Register here!</h1>
+<h1>Register here!!</h1>
 
 <p>Fill in your name and email address, then click <strong>Submit</strong> to register. Or <a href="search.php">Search </a></p>
 
